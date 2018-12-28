@@ -1,1 +1,1 @@
-# PytorchUdacityFacebookChallengeScholarship
+# Pytorch Udacity Facebook Challenge Scholarship
